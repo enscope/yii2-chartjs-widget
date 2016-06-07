@@ -58,7 +58,7 @@ The properties of the widget are as follows:
 - **$chartData** is the data of the chart, directly set to `data` key of the `Chart()` configuration
 - **$chartOptions** are the configuration `options` of the chart
 
-## Planned enhancements
+## Planned Enhancements
 
 - support of global chart defaults
 - chart-specific data and options classes to simplify instantiation
