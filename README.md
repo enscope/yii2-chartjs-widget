@@ -5,11 +5,11 @@ Yii2 Chart widget with support for chart.js 2.0.
 
 To install the widget in your application, run
 
-    composer require 2amigos/yii2-chartjs-widget:~2.0
+    composer require enscope/yii2-chartjs-widget:~1.0
 
 or add
 
-    "2amigos/yii2-chartjs-widget" : "~2.0"
+    "enscope/yii2-chartjs-widget" : "~1.0"
 
 to the require section of your application's composer.json file.
 
